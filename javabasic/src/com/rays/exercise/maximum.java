@@ -3,15 +3,14 @@ package com.rays.exercise;
 public class maximum {
 	public static void main(String[] args) {
 		
-		int a = 10;
-		int b = 20;
+		int a = 20;
+		int b = 40;
 		
 		if(a > b) {
-			System.out.println("a" + a);
-			
-			
+			System.out.println("a " + a);
 		}else {
-			System.out.println("b= " + b);
+			System.out.println("b " + b);
+			
 		}
 				
 		

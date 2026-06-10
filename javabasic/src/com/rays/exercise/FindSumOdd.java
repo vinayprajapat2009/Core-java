@@ -6,12 +6,14 @@ public class FindSumOdd {
 		
 		for(int i = 100; i <= 150; i++) {
 			if(i % 2 != 0) {
-				System.out.println("odd="+ i);
+				System.out.println("even " + i);
 			}else {
-				System.out.println("even="+ i);
-			}
+				System.out.println("odd " + i);
 				
+				}
+			}
 		}
-	}
-
+		
 }
+
+
