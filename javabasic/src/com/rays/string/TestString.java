@@ -14,7 +14,7 @@ public class TestString {
 		System.out.println(name.toUpperCase());
 		System.out.println(name.toLowerCase()); 
 		System.out.println(name.startsWith("vin"));
-		System.out.println(name.endsWith("Pat"));
+		System.out.println(name.endsWith("pat"));
 		System.out.println(name.substring(1, 7));
 	}
 
