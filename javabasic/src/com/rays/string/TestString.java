@@ -16,6 +16,13 @@ public class TestString {
 		System.out.println(name.startsWith("vin"));
 		System.out.println(name.endsWith("pat"));
 		System.out.println(name.substring(1, 7));
+		String [] abc = name.split(" ");
+		for(int i = 0; i < abc.length; i++) {
+			System.out.println(abc[i]);
+			
+			
+		}
+		
 	}
 
 }
